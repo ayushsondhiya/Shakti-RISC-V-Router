@@ -1,6 +1,5 @@
 # Shakti Risc V
 ## OpenWrt
-I'd be glad to create a comprehensive README file for your GitHub repository, incorporating the best aspects of the provided responses, addressing potential issues, and considering insights from the ratings:
 
 **Installing Ubuntu, Cross-Compiler Toolchain, and Building OpenWRT for RISC-V on GitHub**
 
